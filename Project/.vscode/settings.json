@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "main.h": "c",
+        "stm32f10x.h": "c",
+        "tim.h": "c",
+        "encode.h": "c",
+        "ctrl.h": "c",
+        "pid.h": "c",
+        "i2c.h": "c",
+        "mpu6050.h": "c",
+        "oled.h": "c",
+        "stm32f10x_i2c.h": "c",
+        "oled_font.h": "c",
+        "gai_mpu6050.h": "c",
+        "mpuiic.h": "c",
+        "mpu6050_data.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "stm32f10x_gpio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
